@@ -1,0 +1,16 @@
+{
+  "name": "Arkadia-Zdrój",
+  "hills": [
+    {
+      "tracks": [
+        {
+          "name": "Ar_Tr1",
+          "displayName": "Tr1",
+          "repeaters": [
+            "Ar_Tr1a"
+          ]
+        }
+      ]
+    }
+  ]
+}
